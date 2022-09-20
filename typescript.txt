@@ -1,0 +1,17 @@
+npm install -g typescript
+
+c/user/pankajcha/appdata/npm  add this in path
+
+run on vs terminal :
+ : Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+ : tsc first 
+ : node first.js
+it will create first.js file beside it
+
+ : tsc first --watch ==> auto compile file
+
+
+Links:
+TypeScript Classes (tutorialsteacher.com)
+
+TypeScript: Documentation - Creating Types from Types (typescriptlang.org)
